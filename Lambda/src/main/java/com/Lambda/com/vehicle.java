@@ -5,5 +5,8 @@ public interface vehicle {
     void speedUp();
     void mirror();
     void gar();
+    default void licence(){
+        System.out.println("Added licence all person");
+    }
 
 }
