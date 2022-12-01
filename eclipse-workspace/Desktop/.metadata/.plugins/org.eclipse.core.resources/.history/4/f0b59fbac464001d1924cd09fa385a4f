@@ -1,0 +1,26 @@
+package com.Stream.com;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Stream;
+
+public class Demo {
+public static void main(String []args) {
+	List<Integer>list= Arrays.asList(9,8,7,6,5,4,4);
+//	Stream<Integer>data=list.stream();
+//	Stream<Integer>mappedData= data.map(n->n*2);
+//	mappedData.forEach(n->System.out.println(n));
+//	long count= data.count();
+//	System.out.println(count);
+//	Stream<Integer>sortedData=data.sorted();
+//	sortedData.forEach(n->System.out.println(n));
+	list.stream()
+	.map(n->n*3)
+	.forEach(n->System.out.println(n));
+	
+	for(int n:list) {
+		System.out.println(n*2);
+	}
+}
+}

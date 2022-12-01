@@ -1,0 +1,20 @@
+1 java object methods
+1 equals()
+2 hashcode()
+3 getclass()
+4 clone()
+5 toString()
+ 
+2 Lambda Expressions
+3 Functional Interface
+4 throw
+5 throws
+6 try, catch
+7 method overloading and overriding
+8 Getter and Setter method
+9 wrapper classes
+10 intanceOf
+11 this keyword
+12 super keyword
+13 navigable map
+14 Decompiler

@@ -1,0 +1,13 @@
+package com.Inheritance.com;
+public class X{
+	int x=10;
+}
+public class Y extends X{
+	int y=20;
+}
+public class Test13 {
+public static void main(String args[]) {
+	Y obj=new Y();
+	System.out.println(obj.y);
+}
+}

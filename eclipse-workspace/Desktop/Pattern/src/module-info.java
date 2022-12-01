@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author giitian
+ *
+ */
+module Pattern {
+}

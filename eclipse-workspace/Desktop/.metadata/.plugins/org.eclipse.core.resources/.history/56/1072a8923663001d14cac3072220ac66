@@ -1,0 +1,26 @@
+package com.Inheritance.com;
+
+public class Test4 {
+	public static void main(String[]args) {
+		P p=new R();
+		System.out.println("Go");
+	
+}
+}
+class P {
+    String compute(String str) {
+        return str + str + str;
+    }
+}
+
+class Q extends P {
+    String compute(String str) {
+        return super.compute(str.toLowerCase());
+    }
+}
+
+class R extends Q {
+    String compute(String str) {
+        return super.compute(str.replace('o', 'O')); //2nd argument is uppercase O
+    }
+}

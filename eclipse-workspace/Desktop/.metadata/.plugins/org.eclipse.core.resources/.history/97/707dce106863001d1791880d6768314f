@@ -1,0 +1,22 @@
+package com.Inheritance.com;
+class Parent{
+	Parent(){
+		System.out.println("Non-Param of Parent");
+	}
+	Parent(int y){
+		System.out.println("Param of Parent");
+	}
+}
+class Child extends Parent{
+	Child(){
+		System.out.println("Non-Param of Child");
+	}
+	Child(int y){
+		System.out.println("Param of Child");
+	}
+}
+public class TEST10 {
+public static void main(String []args) {
+	Child cd=new Child(20);
+}
+}

@@ -1,0 +1,19 @@
+package com.Inheritance.com;
+class Rectangle{
+	int lenght;
+	int breadth;
+	Rectangle(int l,int d){
+		this.lenght=l;
+		this.breadth=d;
+	}
+	void display(){
+		System.out.println("Length:"+this.lenght);
+		System.out.println("Breagth :"+this.breadth);
+	}
+}
+public class Test11 {
+public static void main(String[]args) {
+	Rectangle obj =new Rectangle(10,20);
+	obj.display();
+}
+}

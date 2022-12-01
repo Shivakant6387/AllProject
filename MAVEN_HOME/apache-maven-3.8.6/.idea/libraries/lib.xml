@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/maven-resolver-transport-wagon-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-resolver-api-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-compat-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-repository-metadata-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-embedder-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-resolver-provider-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wagon-provider-api-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-resolver-util-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-utils-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-resolver-impl-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-artifact-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-model-builder-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-settings-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-builder-support-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.sisu.inject-0.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-sec-dispatcher-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-component-annotations-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wagon-file-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-plugin-api-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-model-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-resolver-connector-basic-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-interpolation-1.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-cipher-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guice-4.2.2-no_aop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jansi-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-25.1-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.sisu.plexus-0.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wagon-http-3.5.1-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-core-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-slf4j-provider-3.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-shared-utils-3.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-resolver-spi-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-settings-builder-3.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

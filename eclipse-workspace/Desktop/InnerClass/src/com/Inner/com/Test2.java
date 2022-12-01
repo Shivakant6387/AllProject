@@ -1,0 +1,18 @@
+package com.Inner.com;
+class Outer{
+	public void display() {
+		class Inner{
+			public void show() {
+				System.out.println("Hello");
+			}
+		}
+		Inner i=new Inner();
+		i.show();
+	}
+}
+public class Test2 {
+	public static void main(String[]args) {
+		Outer o=new Outer();
+		o.display();
+	}
+}

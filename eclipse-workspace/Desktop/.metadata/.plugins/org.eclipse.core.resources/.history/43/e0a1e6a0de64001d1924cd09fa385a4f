@@ -1,0 +1,13 @@
+package com.Inner.com;
+
+public class St {
+static {
+	System.out.println("Hello");
+}
+public static void main(String[]args) {
+	System.out.println("Main");
+}
+static {
+	System.out.println("Hey");
+}
+}
